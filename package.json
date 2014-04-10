@@ -1,0 +1,28 @@
+{
+  "name": "bluebird-mocha-generators",
+  "version": "0.1.0",
+  "description": "Add bluebird.coroutine generator support to mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/russpowers/bluebird-mocha-generators.git"
+  },
+  "keywords": [
+    "bluebird",
+    "mocha",
+    "generator",
+    "coroutine",
+    "test"
+  ],
+  "author": "Russ Powers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/russpowers/bluebird-mocha-generators/issues"
+  },
+  "homepage": "https://github.com/russpowers/bluebird-mocha-generators",
+  "dependencies": {
+  }
+}
